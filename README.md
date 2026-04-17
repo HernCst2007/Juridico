@@ -1,1 +1,1 @@
-# Jur-dico
+# Juridico
